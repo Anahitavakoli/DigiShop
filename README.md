@@ -9,3 +9,6 @@ An online shop designed with compose
 - Rest api
 - Retrofit
 - Coroutines
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Screen01-shop?raw=true)
+
