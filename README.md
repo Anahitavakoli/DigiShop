@@ -9,7 +9,7 @@ An online shop designed with compose
 - Rest api
 - Retrofit
 - Coroutines
-
+<img src="https://github.com/Anahitavakoli/DigiShop/blob/master/Screen01-shop.JPG" width="100" height="100">
 
 ![Alt text](https://github.com/Anahitavakoli/DigiShop/blob/master/Screen01-shop.JPG)
 
