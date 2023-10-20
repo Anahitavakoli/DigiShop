@@ -10,5 +10,5 @@ An online shop designed with compose
 - Retrofit
 - Coroutines
 
-![Alt text](https://github.com/Anahitavakoli/DigiShop/blob/master/Screen01-shop.JPG | width=100)
+![Alt text](https://github.com/Anahitavakoli/DigiShop/blob/master/Screen01-shop.JPG)
 
